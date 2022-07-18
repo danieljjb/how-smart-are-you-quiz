@@ -59,6 +59,8 @@ h2 {
     background-color: #E27D60;
 }
 
+/* How to play */
+
 .how-to-play-container {
     width: 100vw;
     height: 100vh;
@@ -69,4 +71,14 @@ h2 {
     max-width: 90rem;
     margin: 0 auto;
     padding: 5rem;
+}
+
+#instructions {
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+}
+
+#instructions li {
+    padding: .5rem;
+    text-align: left;
 }
