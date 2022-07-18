@@ -58,3 +58,15 @@ h2 {
     color: #000;
     background-color: #E27D60;
 }
+
+.how-to-play-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 90rem;
+    margin: 0 auto;
+    padding: 5rem;
+}
