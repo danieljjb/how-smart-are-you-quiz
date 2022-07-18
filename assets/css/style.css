@@ -50,7 +50,7 @@ h2 {
     color: #000;
     background-color: #E8A87C;
     border: .2rem solid #000;
-    border-radius: .4rem;
+    border-radius: .5rem;
 }
 
 .btn:hover {
@@ -103,6 +103,6 @@ h2 {
     margin-bottom: 1rem;
     text-decoration: none;
     background-color: #E8A87C;
-    border: .1rem solid #000;
+    border: .2rem solid #000;
     border-radius: .5rem;
 }
