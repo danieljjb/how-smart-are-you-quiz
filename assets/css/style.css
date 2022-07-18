@@ -37,6 +37,8 @@ h2 {
 .content-position {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .btn {
