@@ -4,6 +4,9 @@ The purpose of this website is to provide a fun interactive general knowledge qu
 # UX
 
 ## User Goals
+* Visually attractive.
+* Easy to navigate.
+* Scoreboard to compare scores.
 
 ## User Stories
 
