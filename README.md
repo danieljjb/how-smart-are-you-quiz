@@ -34,6 +34,10 @@ I used [Colormind](http://colormind.io/) to generate a color palette.
 
 <img src="/docs/color-palette.png">
 
-
+* #41B3A3 (green) - This will be used as the background color of the website.
+* #E8A87C (light orange) - This will be used as a background color for the buttons.
+* #E27D60 (dark orange) - This will be used as a background color for the buttons when hovered over.
+* #FFFFFF (white) - This will be used for a background color of the input box.
+* #000000 (black) - This will be used for the text on the website.
 
 ## Fonts
