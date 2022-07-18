@@ -15,5 +15,8 @@ The purpose of this website is to provide a fun interactive general knowledge qu
 * As a user, I want to see a scoreboard with both my score and other users scores.
 
 ## Site Owner Goals
+* Provide a website that is easy to navigate.
+* Create a visually appealing website to maintain user attention.
+* Introduce a competitive aspect to the website via a scoreboard.
 
 ## Requirements
