@@ -20,3 +20,6 @@ The purpose of this website is to provide a fun interactive general knowledge qu
 * Introduce a competitive aspect to the website via a scoreboard.
 
 ## Requirements
+* Website colors look well together.
+* Simple design to allow for intuitive use.
+* A leaderboard where high scores are displayed.
