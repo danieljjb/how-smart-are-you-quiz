@@ -22,3 +22,14 @@ h2 {
     font-size: 2rem;
     margin-bottom: 2rem;
 }
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    max-width: 90rem;
+    margin: 0 auto;
+    padding: 5rem;
+}
