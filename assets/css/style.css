@@ -82,3 +82,12 @@ h2 {
     padding: .5rem;
     text-align: left;
 }
+
+/* game */
+
+#statistics {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 60rem;
+}
