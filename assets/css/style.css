@@ -106,3 +106,8 @@ h2 {
     border: .2rem solid #000;
     border-radius: .5rem;
 }
+
+.answer:hover {
+    cursor: pointer;
+    background-color: #E27D60;
+}
