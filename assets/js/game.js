@@ -14,6 +14,9 @@ let questionCounter = [];
 let availableQuestions = [];
 let questions = [];
 
+const CORRECT_POINTS = 10;
+const MAX_QUESTIONS = 20;
+
 // Fetch Questions
 
 fetch(
@@ -47,3 +50,4 @@ fetch(
 .catch((err) => {
     console.error(err);
 });
+
