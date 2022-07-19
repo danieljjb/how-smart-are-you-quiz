@@ -59,3 +59,32 @@ startGame = () => {
     availableQuestions = [...questions];
     getNewQuestion();
 };
+
+getNewQuestion = () => {
+
+    if (availableQuestions.length == 0 || questionCounter >= MAX_QUESTIONS) {
+        return window.location.assign();
+    }
+
+    questionCounter++;
+    if (questionCounterText) {
+        questionCounterText.innerHTML = `${questionCounter}/${MAX_QUESTIONS}`;
+    }
+
+    const questionIndex = Math.floor(Math.random() * availableQuestions.length);
+    currentQuestion = availableQuestions[questionIndex];
+    if (question) {
+        question.innerHTML = currentQuestion.question;
+    }
+
+    answers.forEach(answer => {
+        const number = answer.dataset['number'];
+        if (answer) {
+            answer.innerHTML = currentQuestion['answer' + number];
+        }
+    });
+
+    availableQuestions.splice(questionIndex, 1);
+
+    acceptingAnswers = true;
+};
