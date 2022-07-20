@@ -9,8 +9,8 @@ const scoreText = document.querySelector('#score');
 
 let currentQuestion = {};
 let acceptingAnswers = false;
-let score = [];
-let questionCounter = [];
+let score = 0;
+let questionCounter = 0;
 let availableQuestions = [];
 let questions = [];
 
