@@ -20,36 +20,36 @@ const MAX_QUESTIONS = 20;
 // Fetch Questions
 
 fetch(
-    'https://opentdb.com/api.php?amount=20&category=9&type=multiple'
-)
-.then((res) => {
-    return res.json();
-})
-.then((loadedQuestions) => {
-    questions = loadedQuestions.results.map((loadedQuestion) => {
-        const formattedQuestion = {
-            question: loadedQuestion.question,
-        };
+        'https://opentdb.com/api.php?amount=20&category=9&type=multiple'
+    )
+    .then((res) => {
+        return res.json();
+    })
+    .then((loadedQuestions) => {
+        questions = loadedQuestions.results.map((loadedQuestion) => {
+            const formattedQuestion = {
+                question: loadedQuestion.question,
+            };
 
-        const answerChoices = [...loadedQuestion.incorrect_answers];
-        formattedQuestion.answer = Math.floor(Math.random() * 3) + 1;
-        answerChoices.splice(
-            formattedQuestion.answer - 1,
-            0,
-            loadedQuestion.correct_answer
-        );
+            const answerChoices = [...loadedQuestion.incorrect_answers];
+            formattedQuestion.answer = Math.floor(Math.random() * 3) + 1;
+            answerChoices.splice(
+                formattedQuestion.answer - 1,
+                0,
+                loadedQuestion.correct_answer
+            );
 
-        answerChoices.forEach((choice, index) => {
-            formattedQuestion['answer' + (index + 1)] = choice;
+            answerChoices.forEach((choice, index) => {
+                formattedQuestion['answer' + (index + 1)] = choice;
+            });
+
+            return formattedQuestion;
         });
-
-        return formattedQuestion;
+        startGame();
+    })
+    .catch((err) => {
+        console.error(err);
     });
-    startGame();
-})
-.catch((err) => {
-    console.error(err);
-});
 
 // Functions
 
