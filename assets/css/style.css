@@ -121,3 +121,17 @@ h2 {
     align-items: center;
     max-width: 30rem;
 }
+
+input {
+    margin-bottom: 2rem;
+    width: 30rem;
+    padding: 1rem;
+    font-size: 2rem;
+    text-align: center;
+    border: none;
+}
+
+input::placeholder {
+    text-align: center;
+    color: #000;
+}
