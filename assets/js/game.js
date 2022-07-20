@@ -88,3 +88,28 @@ getNewQuestion = () => {
 
     acceptingAnswers = true;
 };
+
+answers.forEach(answer => {
+    answer.addEventListener("click", e => {
+        if (!acceptingAnswers) return;
+
+        acceptingAnswers = false;
+        const selectedAnswer = e.target;
+        const selectedCorrectAnswer = selectedAnswer.dataset["number"];
+
+        const classToApply =
+            selectedCorrectAnswer == currentQuestion.answer ? "correct" : "incorrect";
+
+        if (classToApply === 'correct') {
+            incrementScore(CORRECT_BONUS);
+        }
+
+        getNewQuestion();
+    });
+});
+
+incrementScore = num => {
+    score += num;
+    scoreText.innerText = score;
+    localStorage.setItem('mostRecentScore', score);
+};
