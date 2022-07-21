@@ -12,13 +12,13 @@ let acceptingAnswers = false;
 let score = 0;
 let questionCounter = 0;
 let availableQuestions = [];
-let questions = [];
 
-const CORRECT_POINTS = 10;
+const CORRECT_BONUS = 10;
 const MAX_QUESTIONS = 20;
 
 // Fetch Questions
 
+let questions = [];
 fetch(
         'https://opentdb.com/api.php?amount=20&category=9&type=multiple'
     )
@@ -50,7 +50,7 @@ fetch(
     .catch((err) => {
         console.error(err);
     });
-
+    
 // Functions
 
 startGame = () => {
