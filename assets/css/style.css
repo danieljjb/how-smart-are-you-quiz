@@ -163,3 +163,14 @@ input::placeholder {
     margin-bottom: 2rem;
 }
 
+/* Media Queries */
+
+@media only screen and (max-width: 1024px) {
+    body {
+        font-size: 80%;
+    }
+    
+    #statistics {
+        width: 80%;
+    }
+}
