@@ -165,19 +165,19 @@ input::placeholder {
 
 /* Media Queries */
 
-@media only screen and (max-width: 1024px) {
-    body {
-        font-size: 80%;
+@media only screen and (max-width: 572px) {
+    * {
+        font-size: 90%;
     }
-    
+
     #statistics {
         width: 80%;
     }
 }
 
-@media only screen and (max-width: 572px) {
+@media only screen and (max-width: 450px) {
     * {
-        font-size: 90%;
+        font-size: 70%;
     }
 
     #statistics {
