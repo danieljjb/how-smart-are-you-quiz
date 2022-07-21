@@ -150,3 +150,11 @@ input::placeholder {
     border: .2rem solid #000;
     border-radius: .5rem;
 }
+
+/* High Scores */
+
+#highScoresList {
+    list-style: none;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
