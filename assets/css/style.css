@@ -153,8 +153,13 @@ input::placeholder {
 
 /* High Scores */
 
+#finalScore {
+    font-size: 3.2rem;
+}
+
 #highScoresList {
     list-style: none;
     font-size: 2rem;
     margin-bottom: 2rem;
 }
+
