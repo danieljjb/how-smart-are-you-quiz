@@ -1,6 +1,7 @@
 # How Smart Are You? (quiz)
 
 # Goals for this Project
+
 The purpose of this website is to provide a fun interactive general knowledge quiz for users to play. It will include a scoreboard where users can enter a username to compare scores with each other. There will also be instructions on how to play and navigate the quiz.
 
 ## Live Project
@@ -51,6 +52,12 @@ I used [Colormind](http://colormind.io/) to generate a color palette.
 ## Fonts
 I have chosen to use the font [Roboto](https://fonts.google.com/specimen/Roboto?sort=popularity "Roboto font") which I imported from [Google Fonts](https://fonts.google.com/ "Google Fonts"). I chose this font because it's a very popular font that is easy to read and also helps to incease the attractiveness of the website.
 
+# Features
+
+# Technologies Used
+
+# Testing
+
 # Deployment
 
 I deployed this site on GitHub using the following steps:
@@ -60,3 +67,5 @@ I deployed this site on GitHub using the following steps:
 * Under the heading 'Source', I clicked on 'None' and selected 'Main'.
 * I then clicked 'Save'.
 * The website then became live here.
+
+# Credits
