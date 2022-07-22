@@ -56,6 +56,12 @@ I have chosen to use the font [Roboto](https://fonts.google.com/specimen/Roboto?
 
 # Technologies Used
 
+## Languages
+
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
 # Testing
 
 # Deployment
