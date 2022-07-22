@@ -66,6 +66,12 @@ I have chosen to use the font [Roboto](https://fonts.google.com/specimen/Roboto?
 
 * [Google Fonts](https://fonts.google.com/)
 
+## Tools
+* [Gitpod](https://gitpod.io/)
+* [Google Fonts](https://fonts.google.com/)
+* [Colormind](http://colormind.io/)
+* [Am I Responsive?](https://ui.dev/amiresponsive)
+
 # Testing
 
 # Deployment
