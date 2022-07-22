@@ -1,5 +1,13 @@
 # How Smart Are You? (quiz)
+
+# Goals for this Project
 The purpose of this website is to provide a fun interactive general knowledge quiz for users to play. It will include a scoreboard where users can enter a username to compare scores with each other. There will also be instructions on how to play and navigate the quiz.
+
+## Live Project
+
+[View the live project here.](https://danieljjb.github.io/how-smart-are-you-quiz/)
+
+<img src="/docs/am-i-responsive.png">
 
 # UX
 
