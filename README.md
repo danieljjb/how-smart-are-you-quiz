@@ -42,3 +42,13 @@ I used [Colormind](http://colormind.io/) to generate a color palette.
 
 ## Fonts
 I have chosen to use the font [Roboto](https://fonts.google.com/specimen/Roboto?sort=popularity "Roboto font") which I imported from [Google Fonts](https://fonts.google.com/ "Google Fonts"). I chose this font because it's a very popular font that is easy to read and also helps to incease the attractiveness of the website.
+
+# Deployment
+
+I deployed this site on GitHub using the following steps:
+
+* I opened the repository on GitHub and selected 'Settings'.
+* Following this I clicked on 'Pages'.
+* Under the heading 'Source', I clicked on 'None' and selected 'Main'.
+* I then clicked 'Save'.
+* The website then became live here.
