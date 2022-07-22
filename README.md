@@ -62,6 +62,10 @@ I have chosen to use the font [Roboto](https://fonts.google.com/specimen/Roboto?
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
+## Libraries and Frameworks
+
+* [Google Fonts](https://fonts.google.com/)
+
 # Testing
 
 # Deployment
