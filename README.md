@@ -54,6 +54,18 @@ I have chosen to use the font [Roboto](https://fonts.google.com/specimen/Roboto?
 
 # Features
 
+## Existing Features
+
+### Homepage
+
+### How to Play
+
+### Playing the Quiz
+
+### High Scores
+
+
+
 # Technologies Used
 
 ## Languages
