@@ -17,6 +17,7 @@ username.addEventListener('keyup', () => {
 
 // Functions
 
+// Adds user's score to leaderboard and gives a default username if user doesn't enter one 
 saveHighScore = e => {
     e.preventDefault();
 

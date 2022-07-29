@@ -16,7 +16,7 @@ let availableQuestions = [];
 const CORRECT_BONUS = 10;
 const MAX_QUESTIONS = 20;
 
-// Fetch Questions
+// Gets random questions and answers from an online database of general knowledge questions
 
 let questions = [];
 fetch(
@@ -60,6 +60,7 @@ startGame = () => {
     getNewQuestion();
 };
 
+//  Checks if there are questions available and counts what question the user is on
 getNewQuestion = () => {
 
     if (availableQuestions.length == 0 || questionCounter >= MAX_QUESTIONS) {
@@ -89,6 +90,7 @@ getNewQuestion = () => {
     acceptingAnswers = true;
 };
 
+// Checks if answer is correct or incorrect and adds points if correct
 answers.forEach(answer => {
     answer.addEventListener("click", e => {
         if (!acceptingAnswers) return;
