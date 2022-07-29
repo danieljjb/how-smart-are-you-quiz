@@ -104,7 +104,7 @@ To make a local clone:
 
 1. Log in to GitHub and go to the [GitHub Repository](https://github.com/danieljjb/how-smart-are-you-quiz)
 2. Above the list of files, click  **Code**.
-3. To clone the repository using HTTPS, under "Clone with HTTPS", click the 'Copy' icon. To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click the **Copy** icon. To clone a repository using GitHub CLI, click Use GitHub CLI, then click the **Copy** icon.
+3. To clone the repository using HTTPS, under **Clone with HTTPS**, click the **Copy** icon. To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click the **Copy** icon. To clone a repository using GitHub CLI, click Use GitHub CLI, then click the **Copy** icon.
 4. Open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory.
 6. Type git clone, and then paste the URL you copied earlier. It will look like this, with your GitHub AE username instead of YOUR-USERNAME:
