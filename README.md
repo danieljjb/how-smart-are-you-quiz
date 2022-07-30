@@ -90,10 +90,14 @@ The score counter lets users know their current score as they progress through t
 The question counter informs users what question they are currently on.
 <img src="/docs/question-counter.png">
 
+### End of Game
+When the game ends, users will be shown their overall score and be offered a chance to input their username and save their score to the leaderboard. Alternatively, they can choose to play the quiz again or return to the homepage.
 
+* Desktop
+<img src="/docs/end-of-game.png">
 
-
-
+* Mobile
+<img src="/docs/end-of-game-mobile.png">
 
 ### High Scores
 
