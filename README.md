@@ -132,6 +132,7 @@ The High Scores page shows users a leaderboard of the top 5 results which create
 * [Open DTB](https://opentdb.com/)
 
 # Testing
+* Please refer to [here](TESTING.md) for testing.
 
 # Deployment
 
