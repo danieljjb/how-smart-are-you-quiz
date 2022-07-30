@@ -23,11 +23,12 @@ There were no problems in any of the html files.
 ### end.html
 <img src="/docs/end-w3c.png">
 
-
-
-
-
 ## CSS Validator Results
+There were no problems in the css file.
+
+### style.css
+<img src="/docs/style-w3c.png">
+
 
 ## Jshint Results
 
