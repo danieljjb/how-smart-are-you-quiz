@@ -76,6 +76,24 @@ The How to Play page offers users instructions on how to play the quiz, the scor
 
 
 ### Playing the Quiz
+Whilst playing the game, given an four options to choose from to answer the question of which there is only one correct answer. This gives users a chance to guess the answer if they are unsure and potetentially score points.
+
+* Desktop
+<img src="/docs/game.png">
+
+* Mobile
+<img src="/docs/game-mobile.png">
+
+The score counter lets users know their current score as they progress through the game.
+<img src="/docs/score-counter.png">
+
+The question counter informs users what question they are currently on.
+<img src="/docs/question-counter.png">
+
+
+
+
+
 
 ### High Scores
 
