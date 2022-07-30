@@ -1,3 +1,8 @@
+// I used this tutorial to give me a point of reference for some of the code: 
+// https://www.youtube.com/watch?v=f4fB9Xg2JEY&t=2379s&ab_channel=BrianDesign
+ 
+
+
 // Query Selectors
 
 const question = document.querySelector('#question');
@@ -15,6 +20,11 @@ let availableQuestions = [];
 
 const CORRECT_BONUS = 10;
 const MAX_QUESTIONS = 20;
+
+
+// I used the following tutorials to help understand how to use fetch:
+// https://www.youtube.com/watch?v=jK5zzSA2JHI&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx&index=11&ab_channel=JamesQQuick
+// https://www.youtube.com/watch?v=3aKOQn2NPFs&ab_channel=JamesQQuick
 
 // Gets random questions and answers from an online database of general knowledge questions
 
