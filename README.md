@@ -108,6 +108,10 @@ The High Scores page shows users a leaderboard of the top 5 results which create
 * Mobile
 <img src="/docs/high-scores-mobile.png">
 
+##  Features to be Added
+* Options for levels of difficulty (Easy, Medium, Hard)
+* Category choices (Sports, Music, Movies etc.)
+* Sound effects for correct and incorrect answers.
 
 # Technologies Used
 
