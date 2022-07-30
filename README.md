@@ -66,6 +66,14 @@ The homepage has a simple, intuitive design consisting of a heading (name of the
 <img src="/docs/home-mobile.png">
 
 ### How to Play
+The How to Play page offers users instructions on how to play the quiz, the scoring system and how to save their score to the leaderboard. It also explains some of the other functions of the quiz.
+
+* Desktop
+<img src="/docs/how-to-play.png">
+
+* Mobile
+<img src="/docs/how-to-play-mobile.png">
+
 
 ### Playing the Quiz
 
