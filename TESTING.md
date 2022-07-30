@@ -6,6 +6,26 @@
 # Code Validation
 
 ## HTML Validator Results
+There were no problems in any of the html files.
+
+### index.html
+<img src="/docs/index-w3c.png">
+
+### howtoplay.html
+<img src="/docs/how-to-play-w3c.png">
+
+### highscores.html
+<img src="/docs/highscores-w3c.png">
+
+### game.html
+<img src="/docs/game-w3c.png">
+
+### end.html
+<img src="/docs/end-w3c.png">
+
+
+
+
 
 ## CSS Validator Results
 
