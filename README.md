@@ -130,6 +130,10 @@ The High Scores page shows users a leaderboard of the top 5 results which create
 * [Colormind](http://colormind.io/)
 * [Am I Responsive?](https://ui.dev/amiresponsive)
 * [Open DTB](https://opentdb.com/)
+* [W3C HTML Validation Service](https://validator.w3.org/)
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+* [WJSHint](https://jshint.com/)
+
 
 # Testing
 * Please refer to [here](TESTING.md) for testing.
