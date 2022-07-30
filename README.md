@@ -171,3 +171,15 @@ To make a local clone:
 
 
 # Credits
+
+## Code
+
+* [Simen Daehlin](https://github.com/Eventyret)
+* [Code Institute](https://codeinstitute.net/ie/)
+* James Q Quick
+    * [Tutorial 1](https://www.youtube.com/watch?v=jK5zzSA2JHI&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx&index=11&ab_channel=JamesQQuick)
+    * [Tutorial 2](https://www.youtube.com/watch?v=3aKOQn2NPFs&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx&index=12&ab_channel=JamesQQuick)
+* [Brian Design](https://www.youtube.com/watch?v=f4fB9Xg2JEY&t=2380s&ab_channel=BrianDesign)
+
+
+
