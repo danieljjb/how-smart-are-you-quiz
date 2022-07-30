@@ -100,7 +100,13 @@ When the game ends, users will be shown their overall score and be offered a cha
 <img src="/docs/end-of-game-mobile.png">
 
 ### High Scores
+The High Scores page shows users a leaderboard of the top 5 results which creates a competitive aspect to the game.
 
+* Desktop
+<img src="/docs/high-scores.png">
+
+* Mobile
+<img src="/docs/high-scores-mobile.png">
 
 
 # Technologies Used
