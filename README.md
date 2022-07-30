@@ -76,7 +76,7 @@ The How to Play page offers users instructions on how to play the quiz, the scor
 
 
 ### Playing the Quiz
-Whilst playing the game, given an four options to choose from to answer the question of which there is only one correct answer. This gives users a chance to guess the answer if they are unsure and potetentially score points.
+Whilst playing the game, users are given four options to choose from to answer the question of which there is only one correct answer. This gives users a chance to guess the answer if they are unsure and potetentially score points.
 
 * Desktop
 <img src="/docs/game.png">
