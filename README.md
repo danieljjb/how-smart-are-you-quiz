@@ -10,6 +10,36 @@ The purpose of this website is to provide a fun interactive general knowledge qu
 
 <img src="/docs/am-i-responsive.png">
 
+# Table of Contents
+
+* [UX](#ux)
+    * [User Goals](#user-goals)
+    * [User Stories](#user-stories)
+    * [Site Owner Goals](#business-owners-goals)
+    * [Requirements](#requirements)
+* [Design](#design)
+    * [Colors](#colors)
+    * [Fonts](#fonts)
+* [Features](#features)
+    * [Existing Features](#existing-features)
+        * [Homepage](#homepage)
+        * [How to Play](#how-to-play)
+        * [Playing the Quiz](#playing-the-quiz)
+        * [End of Game](#end-of-game)
+        * [High Scores](#high-scores)
+    * [Features to be Added](#features-to-be-added)
+* [Technologies Used](#technologies-used)
+    * [Languages](#languages)
+    * [Libraries and Frameworks](#libraries-and-frameworks)
+    * [Tools](#tools)
+* [Testing](#testing)
+* [Deployment](#deployment)
+    * [Github Pages](#github-pages)
+    * [Forking the GitHub Repository](#forking-the-github-repository)
+    * [Making a Local Clone](#making-a-local-clone)
+* [Credits](#credits)
+    * [Code](#code)
+
 # UX
 
 ## User Goals
