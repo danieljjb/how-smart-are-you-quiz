@@ -68,6 +68,10 @@ I tested the website on multiple devices by going onto to website, right clickin
 * Nest Hub
 * Nest Hub Max
 
+# Browsers Used in Testing
+I tested the website using both Google Chrome and Safari. It worked perfectly on both.
+
+
 
 
 
