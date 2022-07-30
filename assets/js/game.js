@@ -1,3 +1,5 @@
+/* jshint esversion: 6 */
+
 // I used this tutorial to give me a point of reference for some of the code: 
 // https://www.youtube.com/watch?v=f4fB9Xg2JEY&t=2379s&ab_channel=BrianDesign
  
@@ -89,7 +91,7 @@ getNewQuestion = () => {
     }
 
     answers.forEach(answer => {
-        const number = answer.dataset['number'];
+        const number = answer.dataset.number;
         if (answer) {
             answer.innerHTML = currentQuestion['answer' + number];
         }
@@ -107,7 +109,7 @@ answers.forEach(answer => {
 
         acceptingAnswers = false;
         const selectedAnswer = e.target;
-        const selectedCorrectAnswer = selectedAnswer.dataset["number"];
+        const selectedCorrectAnswer = selectedAnswer.dataset.number;
 
         const classToApply =
             selectedCorrectAnswer == currentQuestion.answer ? "correct" : "incorrect";

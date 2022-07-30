@@ -1,3 +1,5 @@
+/* jshint esversion: 6 */
+
 // Functions
 
 const highScoresList = document.querySelector('#highScoresList');

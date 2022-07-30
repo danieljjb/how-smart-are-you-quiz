@@ -1,3 +1,6 @@
+/* jshint esversion: 6 */
+
+
 // Query Selectors
 
 const username = document.querySelector('#username');
