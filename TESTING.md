@@ -31,9 +31,21 @@ There were no problems in the css file.
 
 
 ## Jshint Results
+There were no problems in any of the JavaScript files.
+
+### game.js
+<img src="/docs/game-jshint.png">
+
+### highscores.js
+<img src="/docs/highscores-jshint.png">
+
+### end.js
+<img src="/docs/end-jshint.png">
+
+
 
 # Lighthouse Testing
-* I used lighthouse on google chrome to test the website for performance, accessibility, best practices and SEO. (The results were consistent throughout all of the websites pages).
+I used lighthouse on google chrome to test the website for performance, accessibility, best practices and SEO. (The results were consistent throughout all of the websites pages).
 
 ## Desktop
 <img src="/docs/lighthouse-desktop.png">
