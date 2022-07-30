@@ -1,3 +1,16 @@
+# Table of Contents
+[Testing](#testing)
+[Code Validation](#code-validation)
+    * [HTML Validator Results](#html-validator-results)
+    * [CSS Validator Results](#css-validator-results)
+    * [JShint Results](#jshint-results)
+* [Lighthouse Testing](#lighthouse-testing)
+        * [Desktop](#desktop)
+        * [Mobile](#mobile)
+* [Devices Used in Testing](#devices-used-in-testing)
+* [Browsers Used in Testing](#browsers-used-in-testing)
+* [Bugs](#bugs)
+
 # Testing
 * The website is fully responsive on many different screen sizes and looks good from small devices to larger devices and everything in between. The content is easy to understand and navigate and the color scheme blends everything in well together.
 * I tested every button on the website by clicking on them one by one to make sure they did what they were supposed to do. 
@@ -72,7 +85,7 @@ I tested the website on multiple devices by going onto to website, right clickin
 I tested the website using both Google Chrome and Safari. It worked perfectly on both.
 
 # Bugs
-There are no unresolved bugs.
+There were no unresolved bugs found.
 
 
 
