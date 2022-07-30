@@ -33,6 +33,17 @@ There were no problems in the css file.
 ## Jshint Results
 
 # Lighthouse Testing
+* I used lighthouse on google chrome to test the website for performance, accessibility, best practices and SEO. (The results were consistent throughout all of the websites pages).
+
+## Desktop
+<img src="/docs/lighthouse-desktop.png">
+
+## Mobile
+<img src="/docs/lighthouse-mobile.png">
+
+
+
+
 
 
 
