@@ -57,6 +57,13 @@ I have chosen to use the font [Roboto](https://fonts.google.com/specimen/Roboto?
 ## Existing Features
 
 ### Homepage
+The homepage has a simple, intuitive design consisting of a heading (name of the quiz) and three buttons (Play, How to Play and High Scores) which offer the user an easy-to-understand way of navigating the website.
+
+* Desktop
+<img src="/docs/home.png">
+
+* Mobile
+<img src="/docs/home-mobile.png">
 
 ### How to Play
 
