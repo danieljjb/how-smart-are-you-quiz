@@ -67,7 +67,7 @@ The purpose of this website is to provide a fun interactive general knowledge qu
 
 ## Colors
 
-I used [Visme](https://visme.co/blog/website-color-schemes/) to find a suitable color scheme for the website. I went with the first recommendation as I though it would make for a highly attractive combination.
+I used [Visme](https://visme.co/blog/website-color-schemes/) to find a suitable color scheme for the website. I went with the first recommendation as I thought it would make for a highly attractive combination.
 
 I used [Colormind](http://colormind.io/) to generate a color palette.
 
