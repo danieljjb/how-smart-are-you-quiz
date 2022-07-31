@@ -39,6 +39,7 @@ The purpose of this website is to provide a fun interactive general knowledge qu
     * [Making a Local Clone](#making-a-local-clone)
 * [Credits](#credits)
     * [Code](#code)
+    * [Content](#content)
 
 # UX
 
