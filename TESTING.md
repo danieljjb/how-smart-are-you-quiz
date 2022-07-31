@@ -1,6 +1,6 @@
 # Table of Contents
-[Testing](#testing)
-[Code Validation](#code-validation)
+* [Testing](#testing)
+* [Code Validation](#code-validation)
 * [HTML Validator Results](#html-validator-results)
 * [CSS Validator Results](#css-validator-results)
 * [JShint Results](#jshint-results)
