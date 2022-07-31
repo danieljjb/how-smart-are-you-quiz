@@ -216,5 +216,10 @@ To make a local clone:
     * [Tutorial 2](https://www.youtube.com/watch?v=3aKOQn2NPFs&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx&index=12&ab_channel=JamesQQuick)
 * [Brian Design](https://www.youtube.com/watch?v=f4fB9Xg2JEY&t=2380s&ab_channel=BrianDesign)
 
+## Content
+
+* The questions were sourced from [Open DTB](https://opentdb.com/).
+* The instructions on how to play were written by me.
+
 
 
