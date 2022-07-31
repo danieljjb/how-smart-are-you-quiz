@@ -177,7 +177,7 @@ I deployed this site on GitHub using the following steps:
 
 1. I opened the repository on GitHub and selected **Settings**.
 2. Following this I clicked on **Pages**.
-3. Under the heading 'Source', I clicked on 'None' and selected **Main**.
+3. Under the heading **Source**, I clicked on **None** and selected **Main**.
 4. I then clicked **Save**.
 5. The website then became live here.
 
